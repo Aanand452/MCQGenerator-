@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: MCQGenerator
+Version: 0.0.1
+Author: AnandKumar Sivalanka
+Author-email: anandkumrs016@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: langchain_community
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
